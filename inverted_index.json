@@ -1,0 +1,2150 @@
+{
+    "books": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "\u2192": [
+        [
+            "doc1",
+            78
+        ],
+        [
+            "doc3",
+            79
+        ],
+        [
+            "doc4",
+            93
+        ],
+        [
+            "doc5",
+            36
+        ]
+    ],
+    "1": [
+        [
+            "doc1",
+            78
+        ],
+        [
+            "doc2",
+            74
+        ],
+        [
+            "doc3",
+            75
+        ],
+        [
+            "doc4",
+            84
+        ],
+        [
+            "doc5",
+            30
+        ]
+    ],
+    "scrape": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "light": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "attic": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "tipping": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "velvet": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "soumission": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "sharp": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "objects": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "sapiens": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "brief": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "history": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "humankind": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "requiem": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "red": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "dirty": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "little": [
+        [
+            "doc1",
+            2
+        ]
+    ],
+    "secrets": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "getting": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "dream": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "job": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "coming": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "woman": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "novel": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "life": [
+        [
+            "doc1",
+            3
+        ],
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "feminist": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "victoria": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "woodhull": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "boys": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "boat": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "nine": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "americans": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "epic": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "quest": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "gold": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "berlin": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "olympics": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "black": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "maria": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "starving": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "hearts": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "triangular": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "trade": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "trilogy": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "shakespeare": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "sonnets": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "set": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "me": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "free": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "scott": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "pilgrim": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "precious": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "rip": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "it": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "up": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "start": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "again": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "band": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "could": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "be": [
+        [
+            "doc1",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "your": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "american": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "indie": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "underground": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "olio": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "mesaerion": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "best": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "science": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "fiction": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "stories": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "libertarianism": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "beginners": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "its": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "only": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "himalayas": [
+        [
+            "doc1",
+            1
+        ]
+    ],
+    "wake": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "music": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "works": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "foolproof": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "2": [
+        [
+            "doc2",
+            2
+        ],
+        [
+            "doc3",
+            4
+        ],
+        [
+            "doc4",
+            8
+        ],
+        [
+            "doc5",
+            6
+        ]
+    ],
+    "preserving": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "guide": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "small": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "batch": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "jams": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "jellies": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "pickles": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "condiments": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "chase": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "paris": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "nights": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "dust": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "birdsong": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "story": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "pictures": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "americas": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "cradle": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "quarterbacks": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "western": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "pennsylvania": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "football": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "factory": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "aladdin": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "wonderful": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "lamp": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "worlds": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "elsewhere": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "journeys": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "around": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "shakespeares": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "globe": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "wall": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "piece": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "four": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "agreements": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "practical": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "personal": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "freedom": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "five": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "love": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "languages": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "express": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "heartfelt": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "commitment": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "mate": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "elephant": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "tree": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "bear": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "piano": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "sophies": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "world": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "penny": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "maybe": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "maude": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "grew": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "country": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "dark": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "wood": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "behind": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "closed": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "doors": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "you": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "cant": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "bury": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "them": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "all": [
+        [
+            "doc2",
+            1
+        ]
+    ],
+    "poems": [
+        [
+            "doc2",
+            1
+        ],
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "alive": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "art": [
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "borders": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "bus": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "carse": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "charm": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "charlie": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "chronicle": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "city": [
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "classics": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "collapse": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "collection": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "comfort": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "cooks": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "dinnertime": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "discreet": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "dreadwillow": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "ends": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "enemy": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "family": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "fine": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "find": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "freeman": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "google": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "growth": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "harding": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "higherselfie": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "human": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "made": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "majesty": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "natural": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "never": [
+        [
+            "doc3",
+            1
+        ],
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "one": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "passed": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "pigeons": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "pretending": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "private": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "prosperity": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "reasons": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "rocks": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "sabbath": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "secret": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "series": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "slow": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "snails": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "society": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "states": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "stay": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "summer": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "this": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "thirst": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "throwing": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "torch": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "tracks": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "transformed": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "tribe": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "tsubasa": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "unbound": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "unicorn": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "unseen": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "urban": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "us": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "wanderlove": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "we": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "when": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "wilderness": [
+        [
+            "doc3",
+            1
+        ]
+    ],
+    "acceptance": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "adventure": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "advice": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "age": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "america": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "ancient": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "anxiety": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "assassin": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "birth": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "birds": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "breaking": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "bulletproof": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "case": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "century": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "changing": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "ching": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "class": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "decluttering": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "demons": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "death": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "diet": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "drawings": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "egg": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "electric": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "energy": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "escapades": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "first": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "focus": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "forensic": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "forger": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "genius": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "girl": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "gutsy": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "hospital": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "humanity": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "illustrated": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "inefficiency": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "inside": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "instincts": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "japanese": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "joy": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "labor": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "learning": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "lose": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "magic": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "management": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "master": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "mind": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "mindfulness": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "modern": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "most": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "murder": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "nameless": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "organizing": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "outside": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "pencil": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "perfect": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "pound": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "queens": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "rat": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "reader": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "reclaim": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "reskilling": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "revolution": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "saga": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "security": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "seventeenth": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "six": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "soul": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "spark": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "state": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "tao": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "tactics": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "te": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "thing": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "three": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "tidying": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "time": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "twenty": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "volume": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "3": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "was": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "worry": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "workbook": [
+        [
+            "doc4",
+            1
+        ]
+    ],
+    "already": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "are": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "authors": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "awesome": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "badass": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "busy": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "by": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "doubting": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "forty": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "greatness": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "help": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "how": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "living": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "marketing": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "miserable": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "online": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "overload": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "pressure": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "self": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "step": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "stop": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "strategies": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "stress": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "unleash": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "unplug": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "unwind": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "use": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "worrying": [
+        [
+            "doc5",
+            1
+        ]
+    ],
+    "yourself": [
+        [
+            "doc5",
+            1
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Mini Search Engine</title>
+
+<style>
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2c6ad6;
+}
+
+#results {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.result-item {
+    background: white;
+    padding: 10px;
+    margin: 10px auto;
+    width: 400px;
+    border-radius: 5px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Mini Search Engine</h1>
+
+<input type="text" id="query" placeholder="Enter search query">
+<button onclick="search()">Search</button>
+
+<div id="results"></div>
+
+<script>
+
+async function search() {
+
+let q = document.getElementById("query").value;
+
+let response = await fetch("http://127.0.0.1:8000/search?q=" + q);
+
+let data = await response.json();
+
+let output = "";
+
+for (let i = 0; i < data.results.length; i++) {
+
+let doc = data.results[i][0];
+let score = data.results[i][1];
+
+output += "<div class='result-item'>" + doc + " | Score: " + score + "</div>";
+
+}
+
+document.getElementById("results").innerHTML = output;
+
+}
+
+</script>
+
+</body>
+</html>

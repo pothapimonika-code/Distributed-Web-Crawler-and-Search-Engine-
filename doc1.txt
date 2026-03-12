@@ -1,0 +1,98 @@
+books → 1
+scrape → 1
+
+light → 1
+attic → 1
+
+tipping → 1
+velvet → 1
+
+soumission → 1
+
+sharp → 1
+objects → 1
+
+sapiens → 1
+brief → 1
+history → 1
+humankind → 1
+
+requiem → 1
+red → 1
+
+dirty → 1
+little → 1
+secrets → 1
+getting → 1
+dream → 1
+job → 1
+
+coming → 1
+woman → 1
+novel → 1
+life → 1
+feminist → 1
+victoria → 1
+woodhull → 1
+
+boys → 1
+boat → 1
+nine → 1
+americans → 1
+epic → 1
+quest → 1
+gold → 1
+berlin → 1
+olympics → 1
+
+black → 1
+maria → 1
+
+starving → 1
+hearts → 1
+triangular → 1
+trade → 1
+trilogy → 1
+
+shakespeare → 1
+sonnets → 1
+
+set → 1
+me → 1
+free → 1
+
+scott → 1
+pilgrim → 1
+precious → 1
+little → 1
+life → 1
+
+rip → 1
+it → 1
+up → 1
+start → 1
+again → 1
+
+band → 1
+could → 1
+be → 1
+your → 1
+life → 1
+american → 1
+indie → 1
+underground → 1
+
+olio → 1
+
+mesaerion → 1
+best → 1
+science → 1
+fiction → 1
+stories → 1
+
+libertarianism → 1
+beginners → 1
+
+its → 1
+only → 1
+himalayas → 1
